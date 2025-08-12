@@ -19,7 +19,7 @@ VSNotepadPlusPlus is a powerful Notepad++ plugin that transforms Notepad++ into 
 1. Download the latest release from [Releases](https://github.com/Ngnhatnam4/VSCodedNotepadPlusPlus/releases). actually not yet
 2. Copy the plugin files into your Notepad++ plugins folder.
 3. Restart Notepad++.
-4. Access VSNotepad++Modded from the Plugins menu.
+4. Access VSNotepadPlusPlus from the Plugins menu.
 
 ## Usage
 
